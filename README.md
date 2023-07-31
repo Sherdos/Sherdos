@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toktorov Kurmanbek
+- 👋 Hi, I’m Japarov Sherdos
 - 👀 I’m interested in Python, Linux, PostgreSQL, Docker, Django, FastAPI, SqlAlchemy, Pytest
 - <a href="https://t.me/Sherdos26">Telegram</a>
 <!--
