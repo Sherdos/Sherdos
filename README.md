@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @Toktorov Kurmanbek
+- 👀 I’m interested in Python, Linux, PostgreSQL, Docker, Django, FastAPI, SqlAlchemy, Pytest
+- <a href="https://t.me/Sherdos26">Telegram</a>
 <!--
 **Sherdos/Sherdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
