@@ -34,7 +34,7 @@ I love building **robust, scalable applications**, exploring **DevOps workflows*
 
 ### 🌱 Currently Learning
 - Advanced **FastAPI & async programming**  
-- **Bug bounty techniques** (IDOR, SSRF)  
+- **Bug bounty techniques**
 - Full-stack development with **React + FastAPI**
 
 ---
